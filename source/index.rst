@@ -38,7 +38,7 @@ What Tables Look Like
 | body row 2             | ...        | ...      |          |
 +------------------------+------------+----------+----------+
 
-.. image:: docs/degradation_example_Bullock.png
+.. image:: ../degradation_example_Bullock.png
   :width: 400
   :alt: Example of degradation with imagery and NDFI time series plot
 
