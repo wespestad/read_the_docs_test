@@ -42,7 +42,7 @@ What Tables Look Like
 Test, Does this update???
 -------------------------
 
-.. image:: ../degradation_example_Bullock.png
+.. image:: ./degradation_example_Bullock.png
   :width: 400
   :alt: Example of degradation with imagery and NDFI time series plot
 
